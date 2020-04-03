@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 
     switch (temp)
     {
-        case 1: PQmain(); break;
+        case 1 : PQmain(); break;
         case 2 : break;
         case 3 : break;
         case 4 : break;
