@@ -1,7 +1,7 @@
 #ifndef DEFPQ
 #define DEFPQ
 
-int display(int tab[7][6]);
 int PQmain();
+int display(int tab[7][6]);
 
 #endif // DEFPQ

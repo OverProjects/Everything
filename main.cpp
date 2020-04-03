@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "Puissance_Q/srcPQ.h"
+#include "Puissance_Q/srcPQ.c"
 
 
 
