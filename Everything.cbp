@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Puissance_Q/srcPQ.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Puissance_Q/srcPQ.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
