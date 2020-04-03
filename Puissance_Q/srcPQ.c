@@ -17,7 +17,7 @@ int display(int tab[7][6])
     return 0;
 }
 
-int PQ_main()
+int PQmain()
 {
     int tab[7][6] = {0};
     display(tab);
